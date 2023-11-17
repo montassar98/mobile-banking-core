@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Contactless payment",
+    "description": "Biref description of the card's plan Contactless payment"
+  },
+  {
+    "id": "2",
+    "title": "Mobile Payment",
+    "description": "Biref description of the card's plan Mobile Payment"
+  },
+  {
+    "id": "3",
+    "title": "Cashback guarantee",
+    "description": "Biref description of the card's plan Cashback guarantee "
+  },
+  {
+    "id": "4",
+    "title": "Free payment worldwide",
+    "description": "Biref description of the card's plan Free payment worldwide"
+  }
+]

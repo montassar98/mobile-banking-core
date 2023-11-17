@@ -1,0 +1,10 @@
+{
+  "id": "033",
+  "wording": "My new Budget 2",
+  "percentage": 11.11111111111111,
+  "amount": 4500,
+  "currency": "USD",
+  "amountConsumed": 500,
+  "budgetPeriod": 30,
+  "elapsedDays": 20
+}

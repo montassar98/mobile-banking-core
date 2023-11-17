@@ -1,0 +1,10 @@
+{
+		"id":"01",
+		"name":"House Credit",
+		"duration":"Fixed - 10 years",
+		"currency":"USD",
+		"ratePercentage":"10.29%",
+		"monthShareAmount":2080.0,
+		"totalInterestAmount":25040.0,
+		"totalCreditAmount": 250400.0
+	}

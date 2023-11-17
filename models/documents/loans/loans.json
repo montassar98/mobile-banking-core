@@ -1,0 +1,26 @@
+[
+	{
+		"id":"1",
+		"fileName":"family-loan-agreement",
+		"fileMimeType":"application/pdf",
+		"location":"documents/loans/",
+		"size":"465,506 bytes",
+		"displayName":"family loan agreement"
+	},
+	{
+		"id":"2",
+		"fileName":"loan-extension-agreement",
+		"fileMimeType":"application/pdf",
+		"location":"documents/loans/",
+		"size":"96,506 bytes",
+		"displayName":"Loan extension agreement"
+	},
+	{
+		"id":"3",
+		"fileName":"loan-personal-guarantee",
+		"fileMimeType":"application/pdf",
+		"location":"documents/loans/",
+		"size":"378,506 bytes",
+		"displayName":"Loan personal guarantee"
+	}
+]

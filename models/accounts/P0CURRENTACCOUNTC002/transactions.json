@@ -1,0 +1,182 @@
+[
+  {
+    "accountBalanceAfterTransaction": {
+      "value": 9637.31,
+      "currency": "GBP"
+    },
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": {
+      "value": 75.50,
+      "currency": "GBP"
+    },
+    "bookingDate": "2021-04-02",
+    "communication": {
+      "description": "+++010/8068/17183+++",
+      "type": "STRUCTURED_BE"
+    },
+    "counterparty": {
+      "accountId": "999000221958",
+      "accountIdType": "BBAN",
+      "name": "Jessica Heathcote"
+    },
+    "domainCode": "PMNT",
+    "familyCode": "RCDT",
+    "id": "B7K06XM02A000096000001",
+    "instructionId": "sampleinstructionreference",
+    "operationDate": "2021-04-02T08:30:55Z",
+    "subFamilyCode": "SALA",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z",
+    "valueDate": "2021-04-02"
+  },
+ {
+    "accountBalanceAfterTransaction": {
+      "value": 9637.31,
+      "currency": "EUR"
+    },
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": {
+      "value": 130.40,
+      "currency": "EUR"
+    },
+    "bookingDate": "2021-04-02",
+    "communication": {
+      "description": "+++010/8068/17183+++",
+      "type": "STRUCTURED_BE"
+    },
+    "counterparty": {
+      "accountId": "999000221958",
+      "accountIdType": "BBAN",
+      "name": "Sarah Bentley"
+    },
+    "domainCode": "PMNT",
+    "familyCode": "RCDT",
+    "id": "B7K06XM02A000096000001",
+    "instructionId": "sampleinstructionreference",
+    "operationDate": "2021-03-28T08:30:55Z",
+    "subFamilyCode": "SALA",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z",
+    "valueDate": "2021-03-28"
+  },
+ {
+    "accountBalanceAfterTransaction": {
+      "value": 9637.31,
+      "currency": "USD"
+    },
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": {
+      "value": -140.25,
+      "currency": "USD"
+    },
+    "bookingDate": "2021-04-02",
+    "communication": {
+      "description": "+++010/8068/17183+++",
+      "type": "STRUCTURED_BE"
+    },
+    "counterparty": {
+      "accountId": "999000221958",
+      "accountIdType": "BBAN",
+      "name": "Rami Ali"
+    }, 
+    "domainCode": "PMNT",
+    "familyCode": "RCDT",
+    "id": "B7K06XM02A000096000001",
+    "instructionId": "sampleinstructionreference",
+    "operationDate": "2021-03-15T08:30:55Z",
+    "subFamilyCode": "SALA",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z",
+    "valueDate": "2021-03-15"
+  },
+ {
+    "accountBalanceAfterTransaction": {
+      "value": 9637.31,
+      "currency": "USD"
+    },
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": {
+      "value": 80,
+      "currency": "USD"
+    },
+    "bookingDate": "2021-04-02",
+    "communication": {
+      "description": "+++010/8068/17183+++",
+      "type": "STRUCTURED_BE"
+    },
+    "counterparty": {
+      "accountId": "999000221958",
+      "accountIdType": "BBAN",
+      "name": "Cheryl J. Ruby"
+    },
+    "domainCode": "PMNT",
+    "familyCode": "RCDT",
+    "id": "B7K06XM02A000096000001",
+    "instructionId": "sampleinstructionreference",
+    "operationDate": "2021-04-02T08:30:55Z",
+    "subFamilyCode": "SALA",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z",
+    "valueDate": "2021-04-02"
+  },
+ {
+    "accountBalanceAfterTransaction": {
+      "value": 9637.31,
+      "currency": "USD"
+    },
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": {
+      "value": 90,
+      "currency": "USD"
+    },
+    "bookingDate": "2021-04-02",
+    "communication": {
+      "description": "+++010/8068/17183+++",
+      "type": "STRUCTURED_BE"
+    },
+    "counterparty": {
+      "accountId": "999000221958",
+      "accountIdType": "BBAN",
+      "name": "James J. Allen"
+    },
+    "domainCode": "PMNT",
+    "familyCode": "RCDT",
+    "id": "B7K06XM02A000096000001",
+    "instructionId": "sampleinstructionreference",
+    "operationDate": "2021-04-02T08:30:55Z",
+    "subFamilyCode": "SALA",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z",
+    "valueDate": "2021-04-02"
+  },
+ {
+    "accountBalanceAfterTransaction": {
+      "value": 9637.31,
+      "currency": "USD"
+    },
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": {
+      "value": 140,
+      "currency": "USD"
+    },
+    "bookingDate": "2021-04-02",
+    "communication": {
+      "description": "+++010/8068/17183+++",
+      "type": "STRUCTURED_BE"
+    },
+    "counterparty": {
+      "accountId": "999000221958",
+      "accountIdType": "BBAN",
+      "name": "Mr Doe"
+    },
+    "domainCode": "PMNT",
+    "familyCode": "RCDT",
+    "id": "B7K06XM02A000096000001",
+    "instructionId": "sampleinstructionreference",
+    "operationDate": "2021-04-02T08:30:55Z",
+    "subFamilyCode": "SALA",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z",
+    "valueDate": "2021-04-02"
+  }
+]

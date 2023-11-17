@@ -1,0 +1,9 @@
+{
+		"id":"05",
+		"name":"Debt",
+		"duration":"Fixed - 3 years",
+		"currency":"USD",
+		"ratePercentage":"4.49%",
+		"monthShareAmount":810.0,
+		"totalInterestAmount":12810.0
+	}

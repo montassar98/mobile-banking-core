@@ -1,0 +1,26 @@
+[
+	{
+		"id":"1",
+		"fileName":"auto-insurance",
+		"fileMimeType":"application/pdf",
+		"location":"documents/insurances/",
+		"size":"84 KB",
+		"displayName":"Auto insurance"
+	},
+	{
+		"id":"2",
+		"fileName":"insurauce-payment-demand-letter",
+		"fileMimeType":"application/pdf",
+		"location":"documents/insurances/",
+		"size":"70 KB",
+		"displayName":"Insurauce payment demand letter"
+	},
+	{
+		"id":"3",
+		"fileName":"dental-insurance",
+		"fileMimeType":"application/pdf",
+		"location":"documents/insurances/",
+		"size":"168 KB",
+		"displayName":"Dental insurance"
+	}
+]

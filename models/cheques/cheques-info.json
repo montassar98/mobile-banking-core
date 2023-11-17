@@ -1,0 +1,10 @@
+{
+	"OrdersNumber":5,
+	"currentChequebookOrderedDate":"2022-01-29T00:00:00Z",
+	"chequesUsed":10,
+	"chequebooksUsed":2,
+	"emittedChequesNumber":25,
+	"depositedChequesNumber":20,
+	"chequebookType":"Classic cheque type 1",
+	"currentChequebookWording":"Classic cheque type 1"
+}

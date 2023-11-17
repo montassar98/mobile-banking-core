@@ -1,0 +1,11 @@
+{
+		"id":"03",
+		"name":"Invest in my business",
+		"duration":"Fixed - 7 years",
+		"currency":"USD",
+		"ratePercentage":"2.65%",
+		"monthShareAmount":1800.0,
+		"totalInterestAmount":22810.0,
+		"totalCreditAmount": 174010.0
+
+	}

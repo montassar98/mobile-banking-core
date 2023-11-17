@@ -1,0 +1,9 @@
+{
+	"id":"04",
+	"name":"Travel",
+	"currency":"USD",
+	"maxAmount":20000.0,
+	"minAmount":2000.0,
+	"loanTermInYears":[2,3,4,5,6,7,8,9],
+	"loanInterests":[2.5,3.0,4.5,5,7,7.5]
+}

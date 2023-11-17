@@ -1,0 +1,16 @@
+[
+	{
+		"id":"1234",
+		"name":"TOPNET",
+		"description":"Pay your topnet bills",
+		"icon":"https://logo.clearbit.com/topnet.tn"
+		
+	},
+	{
+		"id":"1235",
+		"name":"GLOBALNET",
+		"description":"Pay your topnet bills",
+		"icon":"https://logo.clearbit.com/globalnet.com.tr"
+		
+	}
+]

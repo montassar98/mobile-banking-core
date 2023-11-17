@@ -1,0 +1,52 @@
+[
+	{
+		"id":"01",
+		"name":"House Credit",
+		"duration":"Fixed - 10 years",
+		"currency":"USD",
+		"ratePercentage":"10.29%",
+		"monthShareAmount":2080.0,
+		"totalInterestAmount":25040.0,
+		"totalCreditAmount": 250400.0
+	},
+	{
+		"id":"02",
+		"name":"Reforms or Backs",
+		"duration":"Fixed - 4 years",
+		"currency":"USD",
+		"ratePercentage":"4.25%",
+		"monthShareAmount":1050.0,
+		"totalInterestAmount":6010.0,
+		"totalCreditAmount": 50400.0
+	},
+	{
+		"id":"03",
+		"name":"Invest in my business",
+		"duration":"Fixed - 7 years",
+		"currency":"USD",
+		"ratePercentage":"2.65%",
+		"monthShareAmount":1800.0,
+		"totalInterestAmount":22810.0,
+		"totalCreditAmount": 174010.0
+
+	},
+	{
+		"id":"04",
+		"name":"Travel",
+		"duration":"Fixed - 1 year",
+		"currency":"USD",
+		"ratePercentage":"2.65%",
+		"monthShareAmount":280.0,
+		"totalInterestAmount":600.0,
+		"totalCreditAmount": 3920.0
+	},
+	{
+		"id":"05",
+		"name":"Debt",
+		"duration":"Fixed - 3 years",
+		"currency":"USD",
+		"ratePercentage":"4.49%",
+		"monthShareAmount":810.0,
+		"totalInterestAmount":12810.0
+	}
+]

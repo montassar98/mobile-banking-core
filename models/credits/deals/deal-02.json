@@ -1,0 +1,10 @@
+{
+		"id":"02",
+		"name":"Reforms or Backs",
+		"duration":"Fixed - 4 years",
+		"currency":"USD",
+		"ratePercentage":"4.25%",
+		"monthShareAmount":1050.0,
+		"totalInterestAmount":6010.0,
+		"totalCreditAmount": 50400.0
+	}

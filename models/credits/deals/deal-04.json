@@ -1,0 +1,10 @@
+{
+		"id":"04",
+		"name":"Travel",
+		"duration":"Fixed - 1 year",
+		"currency":"USD",
+		"ratePercentage":"2.65%",
+		"monthShareAmount":280.0,
+		"totalInterestAmount":600.0,
+		"totalCreditAmount": 3920.0
+	}

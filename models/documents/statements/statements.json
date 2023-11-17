@@ -1,0 +1,26 @@
+[
+	{
+		"id":"1",
+		"fileName":"statement-sample1.pdf",
+		"fileMimeType":"application/pdf",
+		"location":"documents/statements/",
+		"size":"85,506 bytes",
+		"displayName":"statement-sample1"
+	},
+	{
+		"id":"2",
+		"fileName":"statement-sample2.pdf",
+		"fileMimeType":"application/pdf",
+		"location":"documents/statements/",
+		"size":"85,506 bytes",
+		"displayName":"statement-sample2"
+	},
+	{
+		"id":"3",
+		"fileName":"statement-sample3.pdf",
+		"fileMimeType":"application/pdf",
+		"location":"documents/statements/",
+		"size":"85,506 bytes",
+		"displayName":"statement-sample3"
+	}
+]

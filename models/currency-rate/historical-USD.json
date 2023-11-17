@@ -1,0 +1,71 @@
+{
+	"date": "2021-01-16",
+	"base": "USD",
+	"results":
+	[
+		{
+			"id":"aze1230",
+			"name":"European Union",
+			"currency":"EUR",
+			"icon":"https://flagcdn.com/128x96/eu.png",
+			"value": 0.82791,
+			"percentage":0.04
+		},
+		{
+			"id":"aze1230",
+			"name":"British Pound",
+			"currency":"GBP",
+			"icon":"https://flagcdn.com/128x96/gb.png",
+			"value": 0.73605,
+			"percentage":0.03
+		},
+		{
+			"id":"aze1230",
+			"name":"Canadian Dollar",
+			"currency":"CAD",
+			"icon":"https://flagcdn.com/128x96/ca.png",
+			"value": 1.27357,
+			"percentage":0.2
+		},
+		{
+			"id":"aze1230",
+			"name":"Indian Rupee",
+			"currency":"INR",
+			"icon":"https://flagcdn.com/128x96/in.png",
+			"value": 73.16164,
+			"percentage":-0.4
+		},
+		{
+			"id":"aze1230",
+			"name":"CFA Francs",
+			"currency":"XOF",
+			"icon":"https://flagcdn.com/128x96/sn.png",
+			"value": 542.97807,
+			"percentage":-0.14
+		},
+		{
+			"id":"aze1230",
+			"name":"Mauritanian Rupee",
+			"currency":"MRU",
+			"icon":"https://flagcdn.com/128x96/mr.png",
+			"value": 36.41764,
+			"percentage":0.24
+		},
+		{
+			"id":"aze1230",
+			"name":"Tunisian Dinar",
+			"currency":"TND",
+			"icon":"https://flagcdn.com/128x96/tn.png",
+			"value": 2.7086,
+			"percentage":-0.46
+		},
+		{
+			"id":"aze1230",
+			"name":"South African rand",
+			"currency":"ZAR",
+			"icon":"https://flagcdn.com/128x96/za.png",
+			"value": 15.20595,
+			"percentage":0.50
+		}
+	]
+}

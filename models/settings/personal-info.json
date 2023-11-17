@@ -1,0 +1,23 @@
+{
+	"id": 1,
+	"username": "admin",
+	"firstName": "Jeanette",
+	"lastName": "Penddreth",
+	"email": "admin1@vneuron.com",
+	"gender": "Male",
+	"phoneNumber": "98451235",
+	"cin": "1954247",
+	"passport":null,
+	"branch": "branch Ariana",
+	"birthday": "1995-04-26",
+	"ipAddress": "26.58.193.2",
+	"address":{
+			"line_1":"rue de l'artisanat",
+			"line_2":null,
+			"line_3":null,
+			"city":"Charguia",
+			"state":"Ariana",
+			"postcode":"13359",
+			"country_code":"TN"
+		}
+}

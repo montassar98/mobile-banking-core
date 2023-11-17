@@ -1,0 +1,46 @@
+[
+	{
+		"id":"1234",
+		"name":"Dominos Pizza",
+		"rating":4.4,
+		"categories":["Pizza","snacks","desserts"],
+		"location": { "lat": -33.866489, "lng": 151.1958561 },
+		"discount":25,
+		"dueDate":"2022-03-24T05:15:42Z",
+		"startDate":"2022-01-24T05:15:42Z",
+		"image":""
+	},
+	{
+		"id":"1234",
+		"name":"Joe's Pizza",
+		"rating":3.7,
+		"categories":["Pizza","snacks","desserts"],
+		"location": { "lat": -33.866489, "lng": 151.1958561 },
+		"discount":15,
+		"dueDate":"2022-03-24T05:15:42Z",
+		"startDate":"2022-01-24T05:15:42Z",
+		"image":""
+	},
+	{
+		"id":"1234",
+		"name":"Papa Jones",
+		"rating":3.8,
+		"categories":["Pizza","snacks","desserts"],
+		"location": { "lat": -33.866489, "lng": 151.1958561 },
+		"dueDate":"2022-03-24T05:15:42Z",
+		"startDate":"2022-01-24T05:15:42Z",
+		"discount":50,
+		"image":""
+	},
+	{
+		"id":"1234",
+		"name":"McDonalds",
+		"rating":4.2,
+		"categories":["Burgers","snacks","desserts"],
+		"location": { "lat": -33.866489, "lng": 151.1958561 },
+		"dueDate":"2022-03-24T05:15:42Z",
+		"discount":40,
+		"startDate":"2022-01-24T05:15:42Z",
+		"image":""
+	}
+]

@@ -1,0 +1,78 @@
+[
+	{
+		"id":"branch-id-123",
+		"bankId":"bank-id-123",
+		"name":"agency ariana 1",
+		"location":{
+			"lat":9.952422,
+			"lng":10.857522
+		},
+		"address":{
+			"line_1":"No 1 the Road",
+			"line_2":"The Place",
+			"line_3":"The Hill",
+			"city":"Berlin",
+			"county":"String",
+			"state":"Brandenburg",
+			"postcode":"13359",
+			"country_code":"DE"
+		}
+	},
+	{
+		"id":"branch-id-123",
+		"bankId":"bank-id-123",
+		"name":"agency ariana 2",
+		"location":{
+			"lat":9.952422,
+			"lng":10.857522
+		},
+		"address":{
+			"line_1":"No 1 the Road",
+			"line_2":"The Place",
+			"line_3":"The Hill",
+			"city":"Berlin",
+			"county":"String",
+			"state":"Brandenburg",
+			"postcode":"13359",
+			"country_code":"DE"
+		}
+	},
+	{
+		"id":"branch-id-123",
+		"bankId":"bank-id-123",
+		"name":"agency ariana 3",
+		"location":{
+			"lat":9.952422,
+			"lng":10.857522
+		},
+		"address":{
+			"line_1":"No 1 the Road",
+			"line_2":"The Place",
+			"line_3":"The Hill",
+			"city":"Berlin",
+			"county":"String",
+			"state":"Brandenburg",
+			"postcode":"13359",
+			"country_code":"DE"
+		}
+	},
+	{
+		"id":"branch-id-123",
+		"bankId":"bank-id-123",
+		"name":"agency ariana 4",
+		"location":{
+			"lat":9.952422,
+			"lng":10.857522
+		},
+		"address":{
+			"line_1":"No 1 the Road",
+			"line_2":"The Place",
+			"line_3":"The Hill",
+			"city":"Berlin",
+			"county":"String",
+			"state":"Brandenburg",
+			"postcode":"13359",
+			"country_code":"DE"
+		}
+	}
+]

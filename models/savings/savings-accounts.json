@@ -1,0 +1,23 @@
+[
+	{
+		"id":"53214532TN",
+		"accountName":"New car account",
+		"description":"A brief description for your new car account",
+		"currency":"USD",
+		"hasMonthlyDeposit": true,
+		"monthlyDepositAccount":"234656TN",
+		"monthlyDepositAmount":1000.00,
+		"hasSavingsObject": true,
+		"currentAmount":10000.00,
+		"savingsObjectAmount": 25000.00
+	},
+	{
+		"id":"53214533TN",
+		"accountName":"Traveling account",
+		"description":"A brief description for your traveling account",
+		"currency":"USD",
+		"hasMonthlyDeposit": false,
+		"hasSavingsObject": false,
+		"currentAmount":4500.00
+	}
+]

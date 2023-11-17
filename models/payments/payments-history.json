@@ -1,0 +1,87 @@
+[
+  {
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": -75.50,
+	"currency": "USD",
+    "description": "Party",
+    "type": "STRUCTURED_BE",
+	"counterpartyAccountId": "999000221958",
+	"counterpartyAccountIdType": "BBAN",
+	"counterpartyName": "SONEDE Tunisie",
+    "id": "B7K06XM02A000096000001",
+    "operationDate": "2021-12-06T08:30:55Z",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z"
+  },
+  {
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": -89.99,
+	"currency": "USD",
+    "description": "Lunch",
+    "type": "STRUCTURED_BE",
+	"counterpartyAccountId": "999000221958",
+	"counterpartyAccountIdType": "BBAN",
+	"counterpartyName": "Netflix month subscription",
+    "id": "B7K06XM02A000096000001",
+    "operationDate": "2021-11-14T08:30:55Z",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z"
+  },
+  {
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": -50.00,
+	"currency": "USD",
+    "description": "Thanks for haircut",
+    "type": "STRUCTURED_BE",
+	"counterpartyAccountId": "999000221958",
+	"counterpartyAccountIdType": "BBAN",
+	"counterpartyName": "TOPNET bill",
+    "id": "B7K06XM02A000096000001",
+    "operationDate": "2021-10-25T08:30:55Z",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z"
+  },
+  {
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": -65.50,
+	"currency": "USD",
+    "description": "Dinner",
+    "type": "STRUCTURED_BE",
+	"counterpartyAccountId": "999000221958",
+	"counterpartyAccountIdType": "BBAN",
+	"counterpartyName": "AVAST pro antivirus voucher",
+    "id": "B7K06XM02A000096000001",
+    "operationDate": "2021-09-22T08:30:55Z",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z"
+  },
+  {
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": -105.50,
+	"currency": "USD",
+    "description": "Birthday",
+    "type": "STRUCTURED_BE",
+	"counterpartyAccountId": "999000221958",
+	"counterpartyAccountIdType": "BBAN",
+	"counterpartyName": "STEG Tunisie",
+    "id": "B7K06XM02A000096000001",
+    "operationDate": "2021-09-02T08:30:55Z",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z"
+  },
+  {
+    "accountId": "MCSWH84CVVHGYLP1XTBJ",
+    "amount": -245.00,
+	"currency": "USD",
+    "description": "Rent",
+    "type": "STRUCTURED_BE",
+	"counterpartyAccountId": "999000221958",
+	"counterpartyAccountIdType": "BBAN",
+	"counterpartyName": "Meredith Gibson",
+    "id": "B7K06XM02A000096000001",
+    "operationDate": "2021-08-12T08:30:55Z",
+    "transactionId": "B7K06XM02A000096000001",
+    "transactionProcessingDate": "2021-04-02T08:30:55Z"
+  }
+ 
+]

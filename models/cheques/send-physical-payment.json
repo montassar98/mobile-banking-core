@@ -1,0 +1,18 @@
+{
+		"amount":5,
+		"date":"2019-06-10 18:01:59",
+		"description":"A brief description for the the cheque",
+		"id":"5e97134cd23345c3af3798d030b255e7",
+		"image_uri":"https://checkbook-checks-dev.s3.amazonaws.com/8d43176b-9d3d-4ba2-8cc2-1dfe1e3694ee.png",
+		"name":"Widgets Inc.",
+		"number":8243,
+		"recipient":{
+			"city":"San Francisco",
+			"country":"US",
+			"line_1":"1234 N. 1st Street",
+			"line_2":"#56",
+			"state":"CA",
+			"zip":"12345"
+		},
+		"status":"IN_PROCESS"
+	},

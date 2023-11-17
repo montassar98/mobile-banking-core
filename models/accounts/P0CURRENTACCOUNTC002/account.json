@@ -1,0 +1,94 @@
+{
+    "accountNumber": "BE61587814831617",
+    "accountType": "SVGS",
+    "annualEffectiveRate": 12.12345678,
+    "balances": [
+      {
+        "amount": {
+          "value": 4500,
+          "currency": "USD"
+        },
+        "type": "AVAILABLE"
+      },
+      {
+        "amount": {
+          "value": 1000,
+          "currency": "USD"
+        },
+        "type": "ACCOUNTING"
+      }
+    ],
+    "capitalRepaymentCounterparty": {
+      "bankInformation": {
+        "bicCode": "SOBKBEBB",
+        "name": "Sopra Bank",
+        "postalAddress": {
+          "addressLines": [
+            "Herentalsebaan 240",
+            "1000 Bruxelles"
+          ],
+          "countryCode": "US"
+        }
+      },
+      "communication": {
+        "description": "Default communication.",
+        "type": "FREE"
+      },
+      "counterparty": {
+        "accountId": "BE91954322382676",
+        "accountIdType": "IBAN",
+        "name": "Jacques Moon",
+        "postalAddress": {
+          "addressLines": [
+            "Rue du Chateau 120",
+            "5501 Lisogne"
+          ],
+          "countryCode": "US"
+        }
+      }
+    },
+    "clientId": "C001",
+    "currency": "USD",
+    "id": "P0CURRENTACCOUNTC002",
+    "interestPaymentCounterparty": {
+      "bankInformation": {
+        "bicCode": "SOBKBEBB",
+        "name": "Sopra Bank",
+        "postalAddress": {
+          "addressLines": [
+            "Herentalsebaan 240",
+            "1000 Bruxelles"
+          ],
+          "countryCode": "US"
+        }
+      },
+      "communication": {
+        "description": "Default communication.",
+        "type": "FREE"
+      },
+      "counterparty": {
+        "accountId": "BE91954322382676",
+        "accountIdType": "IBAN",
+        "name": "Jacques Moon",
+        "postalAddress": {
+          "addressLines": [
+            "Rue du Chateau 120",
+            "5501 Lisogne"
+          ],
+          "countryCode": "US"
+        }
+      }
+    },
+    "issue": "72e046ae-6785-446b-9613-8e3a120e6d75",
+    "productId": "CPTAV",
+    "productName": "Current account",
+    "productNature": "01",
+    "rateInformation": [
+      {
+        "rate": 13.12345679,
+        "rateType": "CREDIT_INTEREST"
+      }
+    ],
+    "status": "ACTIVE",
+    "wording": "My current account"
+  }

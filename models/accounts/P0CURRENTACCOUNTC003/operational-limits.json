@@ -1,0 +1,24 @@
+{
+      "applicationContext": "webbanking",
+      "availableAmount": {
+        "value": 10000,
+        "currency": "USD"
+      },
+      "customLimitAmount": {
+        "value": 10000,
+        "currency": "USD"
+      },
+      "customLimitIdentifier": "customLimit",
+      "endDate": "2025-12-05T15:29:50.14Z",
+      "operationalLimitType": "headroom",
+      "signCode": "CREDIT",
+      "standardLimitAmount": {
+        "value": 10000,
+        "currency": "USD"
+      },
+      "startDate": "2018-12-05T15:29:50.14Z",
+      "usedAmount": {
+        "value": 0,
+        "currency": "USD"
+      }
+    }

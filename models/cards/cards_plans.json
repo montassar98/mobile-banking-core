@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "clientType": "INDIVIDUAL",
+    "productId": "VISACLA",
+    "productType": "GOLD",
+    "productNature": "01",
+	"price": 4.99,
+    "currency": "USD",
+    "wording": "Credit gold card",
+    "relationType": "HOLDER",
+	"cardNumberType": "BASIC"
+  },
+  {
+    "id": "2",
+    "clientType": "INDIVIDUAL",
+    "productId": "VISACLA",
+    "productType": "REGULAR",
+    "productNature": "02",
+	"price": 0.99,
+	"currency": "USD",
+    "wording": "Credit card",
+    "relationType": "HOLDER",
+	"cardNumberType": "BASIC"
+  }
+]

@@ -1,0 +1,94 @@
+[{
+    "id":"branch-id-123",
+    "bank_id":"bank-id-123",
+    "name":"Branch by the Lake",
+    "address":{
+      "line_1":"No 1 the Road",
+      "line_2":"The Place",
+      "line_3":"The Hill",
+      "city":"Berlin",
+      "county":"String",
+      "state":"Brandenburg",
+      "postcode":"13359",
+      "country_code":"DE"
+    },
+    "location":{
+      "latitude":10.0,
+      "longitude":10.0
+    },
+    "meta":{
+      "license":{
+        "id":"ODbL-1.0",
+        "name":"Open Database License"
+      }
+    },
+    "lobby":{
+      "monday":[{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      }],
+      "tuesday":[{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      }],
+      "wednesday":[{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      }],
+      "thursday":[{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      }],
+      "friday":[{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      }],
+      "saturday":[{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      }],
+      "sunday":[{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      }]
+    },
+    "drive_up":{
+      "monday":{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      },
+      "tuesday":{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      },
+      "wednesday":{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      },
+      "thursday":{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      },
+      "friday":{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      },
+      "saturday":{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      },
+      "sunday":{
+        "opening_time":"10:00",
+        "closing_time":"18:00"
+      }
+    },
+    "branch_routing":{
+      "scheme":"OBP",
+      "address":"123abc"
+    },
+    "is_accessible":"true",
+    "accessibleFeatures":"wheelchair, atm usuable by the visually impaired",
+    "branch_type":"Full service store",
+    "more_info":"short walk to the lake from here",
+    "phone_number":"+381631954907"
+  }]

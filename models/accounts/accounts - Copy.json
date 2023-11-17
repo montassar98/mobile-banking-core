@@ -1,0 +1,50 @@
+[
+  {
+    "accountNumber": "BE61587814831617",
+    "balancesAmount":4500.50,
+	"currency":"USD",
+    "clientId": "C001",
+    "clientName": "Edward Johnson",
+    "id": "P0CURRENTACCOUNTC001",
+    "mandate": "FULL",
+    "productId": "CPTAV",
+    "productName": "Current account",
+    "productNature": "01",
+    "relationType": "HOLDER",
+    "representedThirdPartyId": "T001",
+    "status": "A",
+    "wording": "My current account"
+  },
+  {
+    "accountNumber": "BE61587814831617",
+	"balancesAmount":3200.50,
+	"currency":"USD",
+    "clientId": "C001",
+    "clientName": "Edward Johnson",
+    "id": "P0CURRENTACCOUNTC002",
+    "mandate": "FULL",
+    "productId": "CPTAV",
+    "productName": "Current account",
+    "productNature": "01",
+    "relationType": "HOLDER",
+    "representedThirdPartyId": "T001",
+    "status": "A",
+    "wording": "My savings account"
+  },
+  {
+    "accountNumber": "BE61587814831617",
+    "balancesAmount":2700.50,
+	"currency":"USD",
+    "clientId": "C001",
+    "clientName": "Edward Johnson",
+    "id": "P0CURRENTACCOUNTC003",
+    "mandate": "FULL",
+    "productId": "CPTAV",
+    "productName": "Current account",
+    "productNature": "01",
+    "relationType": "HOLDER",
+    "representedThirdPartyId": "T001",
+    "status": "A",
+    "wording": "My second account"
+  }
+]

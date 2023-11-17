@@ -1,0 +1,14 @@
+{
+		"id":"01",
+		"categoryId":"01",
+		"categoryName":"HOUSE_LOAN",
+		"name":"My house Credit",
+		"totalDuration":"10 years",
+		"durationRemaining":"6 years",
+		"currency":"USD",
+		"ratePercentage":"10.29%",
+		"paidAmount":80000.0,
+		"monthShareAmount":2080.0,
+		"totalInterestAmount":25766.16,
+		"totalCreditAmount": 250400.0
+	}

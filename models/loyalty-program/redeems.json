@@ -1,0 +1,42 @@
+[
+	{
+		"couponId":"12385",
+		"name":"Nike",
+		"description":"Get 30% OFF on bill value",
+		"cost":1200,
+		"startDate" :"2022-03-24T05:15:42Z",
+		"expireDate" :"2022-03-24T05:15:42Z",
+		"icon":"https://logo.clearbit.com/nike.com",
+		"couponCode":"2315AZ21"
+	},
+	{
+		"couponId":"75125",
+		"name":"STARBUCKS",
+		"description":"Get 30% OFF on bill value",
+		"cost":1200,
+		"icon":"https://logo.clearbit.com/starbucks.com",
+		"startDate" :"2022-03-24T05:15:42Z",
+		"expireDate" :"2022-03-24T05:15:42Z",
+		"couponCode":"2315BC78"
+	},
+	{
+		"couponId":"14985",
+		"name":"KFC",
+		"description":"Get 30% OFF on bill value",
+		"cost":1200,
+		"icon":"https://logo.clearbit.com/kfc.com",
+		"startDate" :"2022-03-24T05:15:42Z",
+		"expireDate" :"2022-03-24T05:15:42Z",
+		"couponCode":"7415EV21"
+	},
+	{
+		"couponId":"74985",
+		"name":"Adidas",
+		"description":"Get 25% OFF on bill value",
+		"cost":950,
+		"icon":"https://logo.clearbit.com/adidas.com",
+		"startDate" :"2022-03-24T05:15:42Z",
+		"expireDate" :"2022-03-24T05:15:42Z",
+		"couponCode":"4915EV82"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"id":"1234",
+		"name":"Netflix",
+		"description":"Netflix voucher card",
+		"icon":"https://logo.clearbit.com/netflix.com"
+	},
+	{
+		"id":"1235",
+		"name":"Amazon prime tv",
+		"description":"Amazon prime tv voucher card",
+		"icon":"https://logo.clearbit.com/amazon.com"
+	},
+	{
+		"id":"1235",
+		"name":"HULU",
+		"description":"HULU voucher card",
+		"icon":"https://logo.clearbit.com/hulu.com"
+	},
+	{
+		"id":"1236",
+		"name":"Apple tv",
+		"description":"Apple tv voucher card",
+		"icon":"https://logo.clearbit.com/appletvplusfreetrial.com"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"id":"1234",
+		"name":"Kaspersky",
+		"description":"Kaspersky total security device voucher",
+		"icon":"https://logo.clearbit.com/kaspersky.com"
+	},
+	{
+		"id":"1235",
+		"name":"Norton",
+		"description":"Norton security premium device voucher",
+		"icon":"https://logo.clearbit.com/norton.com"
+	},
+	{
+		"id":"1235",
+		"name":"Avast pro",
+		"description":"Avast pro antivirus device voucher",
+		"icon":"https://logo.clearbit.com/avast.com"
+	},
+	{
+		"id":"1235",
+		"name":"AVG",
+		"description":"avg tuneup device voucher",
+		"icon":"https://logo.clearbit.com/avg.com"
+	}
+]

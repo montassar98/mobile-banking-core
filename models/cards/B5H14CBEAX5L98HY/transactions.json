@@ -1,0 +1,52 @@
+[
+  {
+	"id":1,
+	"amount": 84.99,
+	"currencyType": "USD",
+    "transactionDateTime": "2020-04-28T00:00:10Z",
+    "transactionTypeCode": "PAYMENT",
+    "transactionSubTypeCode": "ATM_PAYMENT",
+    "transactionDirectionCode": "CRDT",
+    "transactionAcceptorLabel": "Sopra bank"
+  },
+  {
+	"id":1,
+	"amount": -180,
+	"currencyType": "USD",
+    "transactionDateTime": "2020-04-28T00:00:10Z",
+    "transactionTypeCode": "PAYMENT",
+    "transactionSubTypeCode": "ATM_PAYMENT",
+    "transactionDirectionCode": "CRDT",
+    "transactionAcceptorLabel": "Sopra bank"
+  },
+   {
+	"id":1,
+	"amount": 280,
+	"currencyType": "USD",
+    "transactionDateTime": "2020-04-28T00:00:10Z",
+    "transactionTypeCode": "PAYMENT",
+    "transactionSubTypeCode": "ATM_PAYMENT",
+    "transactionDirectionCode": "CRDT",
+    "transactionAcceptorLabel": "Sopra bank"
+  },
+   {
+	"id":1,
+	"amount": 40.95,
+	"currencyType": "USD",
+    "transactionDateTime": "2020-04-28T00:00:10Z",
+    "transactionTypeCode": "PAYMENT",
+    "transactionSubTypeCode": "ATM_PAYMENT",
+    "transactionDirectionCode": "CRDT",
+    "transactionAcceptorLabel": "Sopra bank"
+  },
+   {
+	"id":1,
+	"amount": -180,
+	"currencyType": "USD",
+    "transactionDateTime": "2020-04-28T00:00:10Z",
+    "transactionTypeCode": "PAYMENT",
+    "transactionSubTypeCode": "ATM_PAYMENT",
+    "transactionDirectionCode": "CRDT",
+    "transactionAcceptorLabel": "Sopra bank"
+  }
+]

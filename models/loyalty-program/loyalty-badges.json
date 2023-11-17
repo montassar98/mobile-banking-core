@@ -1,0 +1,65 @@
+[
+	{
+		"badgeId":"1",
+		"badgeType":"SUPER_PLANNER",
+		"name":"Super Planner",
+		"description":"Has created at least 25 scheduled transfers",
+		"exp":200,
+		"achieved":9,
+		"required":25
+	},
+	{
+		"badgeId":"2",
+		"badgeType":"THE_COLLECTOR",
+		"name":"The collector",
+		"description":"Paid at least 5 times in the Payment",
+		"exp":250,
+		"achieved":2,
+		"required":5	
+	},
+	{
+		"badgeId":"3",
+		"badgeType":"DEAL_CONQUEROR",
+		"name":"Deal Conqueror",
+		"description":"Succesfully completed at least 15 deals at 100%",
+		"exp":340,
+		"achieved":4,
+		"required":15
+	},
+	{
+		"badgeId":"4",
+		"badgeType":"PEOPLE_PERSON",
+		"name":"People’s Person",
+		"description":"Has at least 20 saved beneficiaries",
+		"exp":500,
+		"achieved":12,
+		"required":20
+	},
+	{
+		"badgeId":"5",
+		"badgeType":"BUSINESS_TYCOON",
+		"name":"Business Tycoon",
+		"description":"Transferred more than 100 operations",
+		"exp":5000,
+		"achieved":30,
+		"required":100
+	},
+	{
+		"badgeId":"6",
+		"badgeType":"REFERRAL_MACHINE",
+		"name":"Referral Machine",
+		"description":"Referred at least 30 friends that joined the Bank",
+		"exp":3500,
+		"achieved":30,
+		"required":30
+	},
+	{
+		"badgeId":"7",
+		"badgeType":"ULTRA_POWERED",
+		"name":"Ultra Powered",
+		"description":"Received 50+ payments inside from different users",
+		"exp":2400,
+		"achieved":35,
+		"required":50
+	}
+]

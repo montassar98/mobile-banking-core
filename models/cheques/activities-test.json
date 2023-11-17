@@ -1,0 +1,43 @@
+[
+	{
+		"id":"5e97134cd23345c3af3798d030b255e7",
+		"date":"2021-06-10T18:01:59",
+		"amount":5,
+		"currency":"USD",
+		"memo":"A brief description for the the cheque",
+		"recipientName":"Widgets Inc.",
+		"number":8243,
+		"sourceBankAccount":"*********7854",
+		"recipient":{
+			"city":"San Francisco",
+			"country":"US",
+			"line_1":"1234 N. 1st Street",
+			"line_2":"#56",
+			"state":"CA",
+			"zip":"12345"
+		},
+		"type":"DEPOSITED",
+		"status":"IN_PROCESS"
+	},
+	{
+		"id":"5e97134cd23345c3af3798d030b255e7",
+		"date":"2021-06-10T18:01:59",
+		"amount":5,
+		"currency":"USD",
+		"memo":"A brief description for the the cheque",
+		"recipientName":"Widgets Inc.",
+		"number":8243,
+		"sourceBankAccount":"*********7854",
+		"recipient":{
+			"city":"San Francisco",
+			"country":"US",
+			"line_1":"1234 N. 1st Street",
+			"line_2":"#56",
+			"state":"CA",
+			"zip":"12345"
+		},
+		"type":"EMITTED",
+		"status":"IN_PROCESS"
+	},
+
+]
